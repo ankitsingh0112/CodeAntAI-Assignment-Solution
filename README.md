@@ -1,8 +1,36 @@
-# React + Vite
+# CodeAnt AI: Frontend Developer Hiring Assignment
+This repository contains solution for the Frontend Developer Intern Hiring Assignment for CodeAnt AI. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Installation
+Follow these steps to set up the project locally:
 
-Currently, two official plugins are available:
+Clone the repository:
+```
+git clone https://github.com/ankitsingh0112/CodeAntAI-Assignment-Solution
+```
+Navigate to the project directory:
+```
+cd CodeAntAI-Assignment-Solution
+```
+Install dependencies:
+```
+npm install
+```
+Start the development server:
+```
+npm run dev
+```
+View the project in your browser:
+```
+http://localhost:3000
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used
+<ul>
+  <li><b>ReactJS:</b> For building the user interface.</li>
+  <li><b>Tailwind CSS:</b> For styling and responsiveness.</li>
+  <li><b>HTML:</b> For structuring the application.</li>
+  <li><b>Vite:</b> For fast development and build process.</li>
+  <li><b>React Router Dom:</b> For managing navigation between pages.</li>
+  <li><b>Radix Icons:</b> For using pre-built icons.</li>
+</ul>
