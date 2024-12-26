@@ -22,7 +22,8 @@ npm run dev
 ```
 View the project in your browser:
 ```
-http://localhost:3000
+http://localhost:3000 --> to visit auth page
+http://localhost:3000/dashboard --> to visit home page
 ```
 
 # Technologies Used
